@@ -45,6 +45,9 @@ Each model was trained using a labeled dataset and achieved high accuracy in pre
 The dataset can be found at 'heart_failure (1).csv'.
 
 
+#### *You can view my app by clicking the below link*
+https://tejasri-123-heart-failure-predictions-app-lcctjz.streamlit.app/
+
 
 
 
